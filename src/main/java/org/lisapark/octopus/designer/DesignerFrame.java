@@ -133,6 +133,7 @@ public class DesignerFrame extends DefaultDockableBarDockableHolder {
     /**
      * 
      * @param repository
+     * @param jurl
      * @param rurl
      * @param rport
      * @param ruid
